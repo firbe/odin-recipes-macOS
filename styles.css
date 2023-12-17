@@ -1,19 +1,15 @@
+/* General */
 * {
     font-family: sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6 {
-    font-weight: 700px;
+.title {
+    font-size: 75px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-color: black;
+    border-style: dashed;
 }
 
-h1 {
-    font-size: 100px;
-}
-
-h2,h3 {
-    font-size: 50px;
-}
-
-strong {
-    font-size: 20px;
-}
+/*  */
